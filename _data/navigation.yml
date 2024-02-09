@@ -6,6 +6,9 @@ main:
 
   - title: "All Projects"
     url: /year-archive/
+  
+  - title: "Awards"
+    url: /awards/
 
   # - title: "Machine Learning"
   #   url: /machine-learning
