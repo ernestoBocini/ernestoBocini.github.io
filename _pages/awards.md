@@ -15,7 +15,13 @@ author_profile: true
 
 ## Best Project in Computer Science from Europe 2022 - Global Undergraduate Awards, Dublin 
 
-<div style="text-align:center;">
+<style>
+    .center {
+        text-align: center;
+    }
+</style>
+
+<div class="center">
     ![Image Description](/images/UA_Logo_2019_800x300.jpeg){: width="400px"}
 </div>
 
