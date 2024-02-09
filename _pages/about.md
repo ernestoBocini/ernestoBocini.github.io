@@ -26,6 +26,6 @@ I am a Master Student in Data Science and Machine Learning from EPFL, Switzerlan
 → Research Project @Sensory Motor System Lab ETH - Supervised by Dr. Gnarra Oriella.<br>
 → Best Project in Computer Science from Europe -- Global Undergraduate Awards, Dublin 2022.<br>
 → Top 10 Best Students in Statistical Sciences from University of Bologna, class 2021/2022.<br>
-→ [References](/files/recommendation_cosatto.pdf) from Dr. Cosatto, Senior Researcher at NEC Laboratories America<br>
-→ [References](/files/recommendation_jaggi.pdf) from Prof. Jaggi, Professor of Machine Learning at EPFL
+→ [References](/files/recommendation_cosatto.pdf) from Dr. Cosatto, Senior Researcher at NEC Laboratories America.<br>
+→ [References](/files/recommendation_jaggi.pdf) from Prof. Jaggi, Professor of Machine Learning at EPFL.
 <br><br>
