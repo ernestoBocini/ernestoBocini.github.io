@@ -34,6 +34,6 @@ The Award celebrates the pinnacle of excellence among students at University of 
 
 ![Image Description](/images/ltflogo.png){: width="100px"}
 
-Among the few Italian students selected to be mentees for LeadTheFuture, a leading mentorship non-profit organization for students in STEM, with acceptance rate below 15%. 
-My Mentor: Matteo Pelosi, Applied Scientist II @Amazon Chicago.
+Among the few Italian students selected to be mentees for LeadTheFuture, a leading mentorship non-profit organization for students in STEM, with acceptance rate below 15%. \\
+My Mentor: Matteo Pelosi, Applied Scientist II @Amazon Chicago.\\
 LeadTheFuture empowers top-performing students to achieve their goals and contribute to their communities by giving them one-on-one guidance from high-impact mentors coming from the world's leading STEM innovation hubs such as Silicon Valley and CERN.
