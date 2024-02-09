@@ -1,5 +1,5 @@
 ---
-title: "CIVIL-459 - Deep learning for autonomous vehicles"
+title: "MATH-232 - Probability and Statistics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teachings/bouffa

@@ -3,7 +3,7 @@ title: "COM-308 - Internet analytics"
 collection: teaching
 type: "Undegraduate course"
 permalink: /teachings/bouffa
-venue: "EPFL, Civil Department"
+venue: "EPFL, Communication Department"
 date: 2024-01-01
 location: "Lausanne, Switzerland"
 ---
