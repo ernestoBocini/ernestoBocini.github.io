@@ -18,6 +18,6 @@ author_profile: true
 ![Image Description](/images/UA_Logo_2019_800x300.jpeg)
 
 Among 2,812 submissions, a placement within the top 10% Global in the Computer Science category was achieved, securing First Place in
-Europe. The project has been published in the Global Undergraduate Library [(link to the submission)](https://gua.soutron.net/Portal/Default/en-GB/RecordView/Index/2713){: style="color: blue;"}
+Europe [[Certificate]](files/GlobalUndergradAwards2022.pdf). The project has been published in the Global Undergraduate Library [(link to the submission)](https://gua.soutron.net/Portal/Default/en-GB/RecordView/Index/2713){: style="color: blue;"}
 
 ---
