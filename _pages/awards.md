@@ -26,7 +26,7 @@ Europe [[Certificate]](/files/GlobalUndergradAwards2022.pdf). The project has be
 
 ![Image Description](/images/unibologo.svg){: width="100px"}
 
-The Award celebrates the pinnacle of excellence among students at University of Bologna. This prestigious accolade acknowledges the top 10 graduates in each subject area, considering their exceptional dedication and accomplishments in both academics and community service. [[Certificate]]
+The Award celebrates the pinnacle of excellence among students at University of Bologna. This prestigious accolade acknowledges the top 10 graduates in each subject area, considering their exceptional dedication and accomplishments in both academics and community service. [[Certificate/Desktop/]](/files/Unibo-Merit-Award.pdf)
 
 ---
 
