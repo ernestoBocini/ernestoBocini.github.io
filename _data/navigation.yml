@@ -1,11 +1,11 @@
 # main links links
 main:
 
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
-  - title: "All Projects"
-    url: /year-archive/
+  # - title: "All Projects"
+  #   url: /year-archive/
   
   - title: "Awards"
     url: /awards/
