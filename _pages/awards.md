@@ -30,13 +30,13 @@ Made it to the UniBO MAGAZINE, with a dedicated article, check it out [here](htt
 <table>
   <tr>
     <td><img src="/images/unibologo.svg" alt="UniBO Logo" style="width: 100px;"></td>
-    <td><img src="/images/medaglia_laurea_al_merito.png" alt="Medal Image" style="width: 200px;"></td>
+    <td><img src="/images/medaglia_laurea_al_merito.png" alt="Medal Image" style="width: 300px;"></td>
   </tr>
 </table>
 
 The Award celebrates the pinnacle of excellence among students at University of Bologna. This prestigious accolade acknowledges the top 10 graduates in each subject area, considering their exceptional dedication and accomplishments in both academics and community service. [[Certificate]](/files/Unibo-Merit-Award.pdf)
 
-<img src="/images/foto_premiazione.png" alt="Award Ceremony Photo" style="width: 60%;">
+<img src="/images/foto_premiazione.png" alt="Award Ceremony Photo" style="width: 95%;">
 
 
 
