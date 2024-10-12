@@ -27,12 +27,10 @@ Made it to the UniBO MAGAZINE, with a dedicated article, check it out [here](htt
 ---
 ## Best Graduate Award in Statistical Sciences 2021/2022 {#unibo-merit-award}
 
-<table>
-  <tr>
-    <td><img src="/images/unibologo.svg" alt="UniBO Logo" style="width: 100px;"></td>
-    <td><img src="/images/medaglia_laurea_al_merito.png" alt="Medal Image" style="width: 300px;"></td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center;">
+  <img src="/images/unibologo.svg" alt="UniBO Logo" style="width: 100px;">
+  <img src="/images/medaglia_laurea_al_merito.png" alt="Medal Image" style="width: 300px; margin-left: 40px;">
+</div>
 
 The Award celebrates the pinnacle of excellence among students at University of Bologna. This prestigious accolade acknowledges the top 10 graduates in each subject area, considering their exceptional dedication and accomplishments in both academics and community service. [[Certificate]](/files/Unibo-Merit-Award.pdf)
 
