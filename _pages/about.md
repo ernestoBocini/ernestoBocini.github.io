@@ -21,6 +21,7 @@ I am a Master Student in Data Science and Machine Learning from EPFL, Switzerlan
 
 
 ## Highlights 🌟
+→ Machine Learning Research Engineer @Logitech, Lausanne, CH - Cognitive Science Team.<br>
 → Research Student @NLP Lab EPFL - Supervised by Dr. Syrielle Montariol and Prof. Antoine Bosselut.<br>
 → Research Student @NuroAI Lab EPFL - Supervised by Prof. Martin Schrimpf.<br>
 → Research Project @Sensory Motor System Lab ETH - Supervised by Dr. Gnarra Oriella.<br>
