@@ -25,16 +25,20 @@ The project has been published in the Global Undergraduate Library [(link to the
 Made it to the UniBO MAGAZINE, with a dedicated article, check it out [here](https://magazine.unibo.it/archivio/2022/11/18/studente-unibo-vince-il-200bglobal-undergraduate-awards-2022)!
 
 ---
-
 ## Best Graduate Award in Statistical Sciences 2021/2022 {#unibo-merit-award}
 
-![Image Description](/images/unibologo.svg){: width="100px"}
+<table>
+  <tr>
+    <td><img src="/images/unibologo.svg" alt="UniBO Logo" style="width: 100px;"></td>
+    <td><img src="/images/medaglia_laurea_al_merito.png" alt="Medal Image" style="width: 200px;"></td>
+  </tr>
+</table>
 
 The Award celebrates the pinnacle of excellence among students at University of Bologna. This prestigious accolade acknowledges the top 10 graduates in each subject area, considering their exceptional dedication and accomplishments in both academics and community service. [[Certificate]](/files/Unibo-Merit-Award.pdf)
 
-![Image Description](/images/medaglia_laurea_al_merito.png){: width="200px"}
+<img src="/images/foto_premiazione.png" alt="Award Ceremony Photo" style="width: 60%;">
 
-![Image Description](/images/foto_premiazione.png){: width="200px"}
+
 
 ---
 
