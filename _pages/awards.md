@@ -26,7 +26,7 @@ Made it to the UniBO MAGAZINE, with a dedicated article, check it out [here](htt
 
 ---
 
-## Best Graduate Award in Statistical Sciences 2021/2022 
+## Best Graduate Award in Statistical Sciences 2021/2022 {#unibo-merit-award}
 
 ![Image Description](/images/unibologo.svg){: width="100px"}
 
