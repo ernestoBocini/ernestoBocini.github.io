@@ -8,20 +8,18 @@ redirect_from:
   - /about.html
 ---
 # Hey, I'm Ernesto <span class="wave">👋</span> 
-Data Science Research Student at NLP Lab @EPFL<br>
+Visiting Researcher @Harvard University | MSc in Data Science at EPFL @EPFL<br>
 
 ---
 I am a Master Student in Data Science and Machine Learning from EPFL, Switzerland. I am passionate about the field of Neuro-Machine Learning, I have done several projects using scientific libraries such as Pytorch, Scikit, Tensorflow etc. Winner of the "Best Undergraduate Project in Computer Science from Europe" at the Global Undergraduate Awards, Dublin 2022.
 
 🧠 NeuroAI Enthusiast: I am deeply fascinated by the mysteries of the brain and its intricate mechanisms. My curiosity drives me to dive into the world of Computational Neuroscience, where I aim to leverage data-driven approaches to unravel the brain's hidden secrets and contribute to advancements in neuroscience research.
 
-💻 My Mission: I thrive on the challenge of leveraging data to build intelligent systems and predictive models. My expertise lies in deep learning for vision and graph neural networks, allowing me to transform raw data into actionable insights and create impactful solutions.
-
-🚀 Bridging Theory and Application: With a solid foundation in both theoretical knowledge and hands-on experience, I am committed to bridging the gap between research and real-world applications. Whether it's designing neural networks or analyzing neural data, I am passionate about creating tangible solutions that push the boundaries of both fields.
+💻 My Mission: I thrive on the challenge of leveraging data to build intelligent systems and predictive models. Machine Learning Engineer & Researcher with experience building robust ML pipelines, scaling models, and conducting research in explainability, generalization, and human-aligned AI. Currently working on Vision Language Models at Harvard and contributing to large-scale ML systems. Passionate about fast, applied ML with real-world impact.
 
 
 ## Highlights 🌟
-→ Machine Learning Research Engineer @Logitech, Lausanne, CH - Cognitive Science Team.<br>
+→ Machine Learning Research Engineer @Logitech, Lausanne, CH - Cognitive Science Team. Submitted a paper to CCN 2025. [Check out the references from supervisors here!](/files/Ernesto_Bocini_Work_Certificate.pdf) <br>
 → Research Student @NLP Lab EPFL - Supervised by Dr. Syrielle Montariol and Prof. Antoine Bosselut.<br>
 → Research Student @NuroAI Lab EPFL - Supervised by Prof. Martin Schrimpf.<br>
 → Research Project @Sensory Motor System Lab ETH - Supervised by Dr. Gnarra Oriella.<br>
